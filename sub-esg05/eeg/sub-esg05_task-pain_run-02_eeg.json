@@ -1,0 +1,18 @@
+{
+    "TaskName": "pain",
+    "Manufacturer": "Brain Products",
+    "PowerLineFrequency": 50.0,
+    "SamplingFrequency": 10000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 81.1287,
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": 72,
+    "EOGChannelCount": 2,
+    "ECGChannelCount": 1,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 1,
+    "TriggerChannelCount": 1
+}
