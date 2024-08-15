@@ -3,7 +3,18 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "[Unspecified]"
+        "Birgit Nierula",
+        "Tilman Stephani",
+        "Emma Bailey",
+        "Merve Kaptan",
+        "Lisa-Marie Pohle",
+        "Ulrike Horn",
+        "Andre Mouraux",
+        "Burkhard Maess",
+        "Arno Villringer",
+        "Gabriel Curio",
+        "Vadim Nikulin",
+        "Falk Eippert"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005307.v1.0.0",
     "License": "CC0"
