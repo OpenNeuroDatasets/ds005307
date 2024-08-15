@@ -1,0 +1,10 @@
+{
+    "Name": "Laser-evoked potentials in the human spinal cord and cortex",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "[Unspecified]"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005307.v1.0.0",
+    "License": "CC0"
+}
